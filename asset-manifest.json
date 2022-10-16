@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/playpower/static/css/main.e2a34ff7.css",
+    "main.js": "/playpower/static/js/main.75c209f4.js",
+    "static/js/787.cfb00d6d.chunk.js": "/playpower/static/js/787.cfb00d6d.chunk.js",
+    "index.html": "/playpower/index.html",
+    "main.e2a34ff7.css.map": "/playpower/static/css/main.e2a34ff7.css.map",
+    "main.75c209f4.js.map": "/playpower/static/js/main.75c209f4.js.map",
+    "787.cfb00d6d.chunk.js.map": "/playpower/static/js/787.cfb00d6d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e2a34ff7.css",
+    "static/js/main.75c209f4.js"
+  ]
+}
